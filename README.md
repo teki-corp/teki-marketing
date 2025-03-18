@@ -1,6 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Teki Corp - Modern Web Solutions
 
-## Getting Started
+Teki Corp is a forward-thinking web development agency specializing in creating exceptional digital experiences. We combine cutting-edge technology with creative design to deliver websites and applications that drive business growth.
+
+## Our Services
+- Custom Web Development
+- React & Next.js Applications
+- UI/UX Design
+- Digital Transformation Solutions
+- Performance Optimization
+
+## About This Project
+This portfolio website is built with [Next.js](https://nextjs.org), showcasing our work and expertise in modern web development.
+
+## Technical Details
 
 First, run the development server:
 
@@ -18,7 +30,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contact Us
+For business inquiries, please reach out to:
+- Email: contact@tekicorp.com
+- Phone: (555) 123-4567
+- Location: Silicon Valley, CA
+
+## Development
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) and modern web technologies to ensure optimal performance.
 
 ## Learn More
 
