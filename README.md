@@ -1,6 +1,6 @@
 # Teki Corp - Modern Web Solutions
 
-Teki Corp is a forward-thinking web development agency specializing in creating exceptional digital experiences. We combine cutting-edge technology with creative design to deliver websites and applications that drive business growth.
+Teki Corp is a forward-thinking web design & development agency specializing in creating exceptional digital experiences. We combine cutting-edge technology with creative design to deliver websites and applications that drive business growth.
 
 ## Our Services
 - Custom Web Development
